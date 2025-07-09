@@ -77,5 +77,3 @@ Build a responsive React dashboard with:
 ---
 
 ## Next Steps
-
-If you need a file/folder structure or starter code, let me know!

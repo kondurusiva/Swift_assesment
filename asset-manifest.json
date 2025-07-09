@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Swift_assesment/static/css/main.e7660a99.css",
+    "main.js": "/Swift_assesment/static/js/main.9bcff715.js",
+    "index.html": "/Swift_assesment/index.html",
+    "main.e7660a99.css.map": "/Swift_assesment/static/css/main.e7660a99.css.map",
+    "main.9bcff715.js.map": "/Swift_assesment/static/js/main.9bcff715.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7660a99.css",
+    "static/js/main.9bcff715.js"
+  ]
+}
